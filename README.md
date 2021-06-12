@@ -16,7 +16,7 @@ By scrubbing, analyzing, and delivering the data,
 we will be able to determine which state of the three listed above will allow our investors to determine where to locate their dispensory to maximize profits.
 
 #### We have identified the following four datasets to be used for this effort
-* CAnnabis Control Commision of Massachusetts - https://opendata.mass-cannabis-control.com/Industry-and-Products/Public-View-Facility-Activity-Daily-Totals/j3q7-3usu/data
+* Cannabis Control Commision of Massachusetts - https://opendata.mass-cannabis-control.com/Industry-and-Products/Public-View-Facility-Activity-Daily-Totals/j3q7-3usu/data
 * California Department of Tax and Fee - https://www.cdtfa.ca.gov/dataportal/dataset.htm?url=CannabisTaxRevenues
 * Colorado Department of Revenue - https://cdor.colorado.gov/data-and-reports/marijuana-data/marijuana-sales-reports
 * U.S Census Bureau - https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/state/totals/

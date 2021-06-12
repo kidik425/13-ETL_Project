@@ -1,5 +1,11 @@
 # Etl Project - Team Asking For Trouble
-## Overview
+
+## Team Members:
+* Drew Trouble
+* Steve Trouble
+* Marc Trouble
+
+## Overview:
 Our team has been approached by investors to determine a location for a successful cannibis dispensory. 
 Out of 34 states and territories that have legalized and/or decriminalized cannibis, we have narrowed down to Massachusetts, California, and Colorado. 
 These states have been determined by a few factors:

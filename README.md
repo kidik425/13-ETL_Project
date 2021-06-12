@@ -1,4 +1,4 @@
-Our team has been approached by investors to determine a location for a successful cannibis dispensory. Out of 34 states and territories that have legalized and/or decriminalized cannibis, we have narrowed down to Massetchusettes, California, and Colorado. These states have been determined by a few factors:
+Our team has been approached by investors to determine a location for a successful cannibis dispensory. Out of 34 states and territories that have legalized and/or decriminalized cannibis, we have narrowed down to Massachusetts, California, and Colorado. These states have been determined by a few factors:
 
 Overall sales (Dept. of Treasury)
 Taxable revenue within each state that have legalized cannibis (recreational and medical)

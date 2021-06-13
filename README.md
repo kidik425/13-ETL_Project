@@ -7,7 +7,7 @@
 * Steve Trouble
 * Marc Trouble
 
-![alt text](./Images/CanniLeaf.png =70x) 
+![alt text](./Images/CanniLeaf.png) 
 
 ## Overview:
 Our team has been approached by investors to determine a location for a successful cannibis dispensory. 

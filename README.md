@@ -22,6 +22,7 @@ These states have been determined by a few factors:
 * California Department of Tax and Fee - https://www.cdtfa.ca.gov/dataportal/dataset.htm?url=CannabisTaxRevenues
 * Colorado Department of Revenue - https://cdor.colorado.gov/data-and-reports/marijuana-data/marijuana-sales-reports
 * U.S Census Bureau - https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/state/totals/
+* State Abbreviations - https://worldpopulationreview.com/states/state-abbreviations
 
 ## Approach:
 Using each dataset, we will aggregate columns to a common granularity, remove unneeded columns from each, and ensure datatype are defined correctly.

@@ -36,3 +36,9 @@ ADD constraints
 Steps:
  - Data Model
  - Notebook 
+
+
+ Efforrt:
+ Steve - Data Model, Sales, Raw(Mass AND Census)
+ Marc - States, Census
+ Drew - Being a Bad ASS!!!!, Technical report, proposal, raw (CA AND CO)

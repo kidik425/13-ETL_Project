@@ -28,17 +28,18 @@ These states have been determined by a few factors:
 Using each dataset, we will aggregate columns to a common granularity, remove unneeded columns from each, and ensure datatype are defined correctly.
 
 
+## Constraints:
+
 ADD reasons for selecting these
 ADD data model?
 ADD technologies to be used
-ADD constraints 
 
 Steps:
  - Data Model
  - Notebook 
 
 
- Efforrt:
+ Effort:
  Steve - Data Model, Sales, Raw(Mass AND Census)
  Marc - States, Census
  Drew - Being a Bad ASS!!!!, Technical report, proposal, raw (CA AND CO)

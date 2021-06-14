@@ -28,7 +28,7 @@ CREATE TABLE public."ca_raw"
     "Cultivation Tax" integer,
     "Sales Tax" integer,
     "Total Tax" integer,
-    "Year-Quarter" integer,
+    "Year-Quarter" character varying(8),
     "Taxable Sales" integer,
     PRIMARY KEY ("Quarter", "Calendar Year")
 )

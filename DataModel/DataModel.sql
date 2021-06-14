@@ -241,8 +241,8 @@ WITH (
 CREATE TABLE public.states
 (
     "StateID" integer NOT NULL,
-    "StateDescName" "char" NOT NULL,
-    "StateAbbrev" "char" NOT NULL,
+    "StateDescName" character varying(30) NOT NULL,
+    "StateAbbrev" character varying(2) NOT NULL,
     PRIMARY KEY ("StateID")
 )
 WITH (

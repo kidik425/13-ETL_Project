@@ -217,7 +217,7 @@ WITH (
 
 CREATE TABLE public.mass_raw
 (
-    activitysummarydate character varying(8),
+    activitysummarydate character varying(30),
     total_plantimmaturecount integer,
     total_planttrackedcount integer,
     total_plantfloweringcount integer,

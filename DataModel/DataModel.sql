@@ -19,7 +19,7 @@ CREATE TABLE public.ca_raw
     "Cultivation Tax" integer,
     "Sales Tax" integer,
     "Total Tax" integer,
-    "Year-Quarter" integer,
+    "Year-Quarter" character varying(8),
     "Taxable Sales" integer,
     PRIMARY KEY ("Quarter", "Calendar Year")
 )
@@ -34,8 +34,8 @@ CREATE TABLE public.co_raw
     "Total Medical YTD Sales" integer,
     "Total Retail Monthly Sales" integer,
     "Total Retail YTD Sales" integer,
-    "Total Monthly Sales" integer,
-    "Total YTD Sales" integer,
+    "Total Monthly Sales" bigint,
+    "Total YTD Sales" bigint,
     PRIMARY KEY ("Sales Month")
 )
 WITH (

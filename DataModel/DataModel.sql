@@ -29,7 +29,7 @@ WITH (
 
 CREATE TABLE public.co_raw
 (
-    "Sales Month" character varying(7),
+    "Sales Month" character varying(15),
     "Total Medical Monthly Sales" integer,
     "Total Medical YTD Sales" integer,
     "Total Retail Monthly Sales" integer,
@@ -254,8 +254,8 @@ CREATE TABLE public.sales_by_qtr
     "SalesID" integer NOT NULL,
     "StateID" integer NOT NULL,
     "Year" integer,
-    "Qtr" integer,
-    "TotalSales" integer,
+    "Qtr" character varying(2),
+    "TotalSales" bigint,
     PRIMARY KEY ("SalesID")
 )
 WITH (
